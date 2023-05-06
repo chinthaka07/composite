@@ -29,5 +29,9 @@ public class Initialize {
                         new Product("Bottle",500)
                 )
         );
+
+        double cost = box.calculateCost();
+        System.out.println("Total : "+cost);
+
     }
 }

@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c6b88b-e056-4467-b7f7-6ac98df92e62" name="Changes" comment="1">
+    <list default="true" id="04c6b88b-e056-4467-b7f7-6ac98df92e62" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/composite-finalize/composite-finalize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-finalize/src/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-finalize/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-finalize/src/CompositeBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-finalize/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-finalize/src/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Initialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Initialize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,9 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683389841024</updated>
-      <workItem from="1683389842076" duration="1283000" />
+      <workItem from="1683389842076" duration="2847000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1683390867939</created>
@@ -73,14 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1683390867939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1683391148287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683391148287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
